@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: big-bear-umbrel-adguard-home
-category: BigBearCasaOS
+category: Security
 name: AdGuard Home
 version: "v0.107.78"
 tagline: Network-wide ads & trackers blocking DNS server.
