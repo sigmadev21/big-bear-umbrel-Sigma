@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: big-bear-umbrel-audiobookshelf
-category: BigBearCasaOS
+category: Media
 name: Audiobookshelf
 version: "2.34.0"
 tagline: Audiobookshelf is a self-hosted audiobook and podcast server.
