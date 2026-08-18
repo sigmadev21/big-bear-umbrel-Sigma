@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: big-bear-umbrel-actual-server
-category: BigBearCasaOS
+category: Finances
 name: Actual Budget
 version: "26.8.1"
 tagline: Local-first OpenSource Budget tool
