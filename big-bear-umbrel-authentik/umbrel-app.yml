@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: big-bear-umbrel-authentik
-category: BigBearCasaOS
+category: Security
 name: Authentik
 version: "2026.2.2"
 tagline: Authentik
