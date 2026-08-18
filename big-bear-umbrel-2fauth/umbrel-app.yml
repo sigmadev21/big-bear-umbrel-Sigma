@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: big-bear-umbrel-2fauth
-category: BigBearCasaOS
+category: Security
 name: 2FAuth
 version: "8.0.1"
 tagline: A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
